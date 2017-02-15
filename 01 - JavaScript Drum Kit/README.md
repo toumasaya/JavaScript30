@@ -1,5 +1,7 @@
 # 01 - JavaScript Drum Kit
 
+[瀏覽成果](https://toumasaya.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html)
+
 ## 監聽事件
 
 * 事件 `keydown`，當按下某個鍵可以發出聲音。查詢 keyCode：http://keycode.info/
