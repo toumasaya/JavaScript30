@@ -5,7 +5,7 @@
 
 # Contents
 
-1. [ ] 01 - JavaScript Drum Kit
+1. [ ] [01 - JavaScript Drum Kit](https://github.com/toumasaya/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 2. [ ] 02 - JS + CSS Clock
 3. [ ] 03 - CSS Variables
 4. [ ] 04 - Array Cardio Day 1
