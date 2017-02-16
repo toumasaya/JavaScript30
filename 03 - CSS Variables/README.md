@@ -1,6 +1,6 @@
 # 03 - CSS Variables
 
-瀏覽成果
+[瀏覽成果](https://toumasaya.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html)
 
 ## CSS Variable 的用法
 
