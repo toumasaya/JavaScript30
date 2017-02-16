@@ -6,7 +6,7 @@
 # Contents
 
 1. [x] [01 - JavaScript Drum Kit](https://github.com/toumasaya/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) | [成果](https://toumasaya.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html)
-2. [x] 02 - JS + CSS Clock
+2. [x] [02 - JS + CSS Clock](https://github.com/toumasaya/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock) | [成果](https://toumasaya.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index.html)
 3. [ ] 03 - CSS Variables
 4. [ ] 04 - Array Cardio Day 1
 5. [ ] 05 - Flex Panel Gallery

@@ -1,6 +1,6 @@
 # 02 - JS + CSS Clock
 
-[瀏覽成果]()
+[瀏覽成果](https://toumasaya.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index.html)
 
 ## Date()
 
@@ -72,7 +72,7 @@ else secondHand.style.transition = 'all 0.05s';
 
 第二種解法，就是先定義一個初始化的時間 `initDate()`，然後再定義一個 `updateDate()`，一開始先執行一次 `initDate`，接著再使用 `updateDate`。
 
-[第二種解法成果]()
+[第二種解法成果](https://toumasaya.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index-advance.html)
 
 ```javascript
 let secondsDegree = 0,
