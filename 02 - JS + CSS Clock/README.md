@@ -8,7 +8,7 @@
 
 本練習中使用 `getSeconds()` `getMinutes()` `getHours()` 來獲取時、分、秒：
 
-```javescript
+```javascript
 const now = new Date();
 const seconds = now.getSeconds();
 const minutes = now.getMinutes();
@@ -61,7 +61,7 @@ hourHand.style.transform = `rotate(${hoursDegree}deg)`
 
 ## 小問題
 
-在秒針進行轉動時，過了一圈之後，開始第二圈時，角度會變成：444° -> 90° -> 96°，由於加了 `transition` 屬性，過渡期間只有 0.05s 所以當下看就會會閃一下，Wes 提示要解決有兩種方式，一種是當秒針回到終點要繼續下一圈時，把 `transition` 的時間設為 0，第二種是讓角度持續增加。
+在秒針進行轉動時，過了一圈之後，開始第二圈時，角度會變成：444° -> 90° -> 96°，由於加了 `transition` 屬性，過渡期間只有 0.05s 所以當下看就會閃一下，Wes 提示要解決有兩種方式，一種是當秒針回到終點要繼續下一圈時，把 `transition` 的時間設為 0，第二種是讓角度持續增加。
 
 第一種解法：
 
