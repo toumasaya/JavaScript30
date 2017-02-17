@@ -8,7 +8,7 @@
 1. [x] [01 - JavaScript Drum Kit](https://github.com/toumasaya/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) | [成果](https://toumasaya.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index.html)
 2. [x] [02 - JS + CSS Clock](https://github.com/toumasaya/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock) | [成果](https://toumasaya.github.io/JavaScript30/02%20-%20JS%20%2B%20CSS%20Clock/index.html)
 3. [x] [03 - CSS Variables](https://github.com/toumasaya/JavaScript30/tree/master/03%20-%20CSS%20Variables) | [成果](https://toumasaya.github.io/JavaScript30/03%20-%20CSS%20Variables/index.html)
-4. [ ] 04 - Array Cardio Day 1
+4. [x] 04 - Array Cardio Day 1 | 成果
 5. [ ] 05 - Flex Panel Gallery
 6. [ ] 06 - Type Ahead
 7. [ ] 07 - Array Cardio Day 2
