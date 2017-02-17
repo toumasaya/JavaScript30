@@ -1,5 +1,7 @@
 # 04 - Array Cardio Day 1
 
+[瀏覽成果（請看 console）](https://toumasaya.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/index.html)
+
 這個練習介紹了常用的 Array methods：
 
 ```javascript
